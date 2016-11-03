@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CoreLib
 {
-    public class Class1
+    public class CoreLibManager
     {
     }
 }
