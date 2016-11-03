@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Feature_A
 {
-    public class Class1
+    public class FeatureAManager
     {
     }
 }
