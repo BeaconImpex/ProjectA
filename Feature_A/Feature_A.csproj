@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddHotFix.cs" />
     <Compile Include="FeatureAManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
